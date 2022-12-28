@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abner Israel</h1>
-<h3 align="center">A Mobile and Fullstack develop. Lovely to Jesus and React Native ⚛ 📱</h3>
+<h3 align="center">A Mobile and Web Fullstack develop. Lovely to Jesus and React Native ⚛ 📱 😍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abnerisrael&label=Profile%20views&color=0e75b6&style=flat" alt="abnerisrael" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abnerisrael" alt="abnerisrael" /></a> </p>
-
-- 🔭 I’m currently working on [Kids app](<div class="row_searchpage_element"> <?php echo $form->textFieldGroup($model,'nome',array('widgetOptions'=>array('htmlOptions'=>array('class'=>'span5','size'=>60,'maxlength'=>255)))); ?> </div>)
-
-- 🌱 I’m currently learning **React Native, Android Architecture and coding best practices**
+- 🔭 I’m currently working on [Kids app](https://github.com/abnerisrael/Kids)
 
 - 👨‍💻 All of my projects are available at [https://github.com/abnerisrael](https://github.com/abnerisrael)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **abnerisrael.a@gmail.com**
 
