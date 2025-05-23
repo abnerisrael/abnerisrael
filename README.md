@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abner Israel</h1>
-<h3 align="center">A Mobile Software Engnieer. Lovely to Jesus ⚛ 📱 😍</h3>
+<h3 align="center">I´m a Mobile Software Engnieer. Thank you Jesus! 🦁</h3>
 
 - 🔭 I’m currently working on [Expo Template Tailwind Pack](https://github.com/abnerisrael/Kids) (A starter pack for expo projects🚀)
 
